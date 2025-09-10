@@ -17,3 +17,7 @@ This is for task_05 of lab_03.
 - this list is not in order!  
 - and thats okay!  
 - no need to worry
+
+This is a **_bold + italic statement_**.  
+_almost forgot to add this_
+**remembered at the last moment**
